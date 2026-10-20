@@ -3,7 +3,6 @@
 <h3 align="center">Hi 👋, I'm Raj Aryan</h3>
 <h4 align="center">Full Stack Developer | MERN Stack | AI Apps with RAG & LLMs</h4>
 
-MCA student at Kalinga University (Bhilai, India), looking for **full-stack developer internships and entry-level roles**.
 
 ### 🔭 What I've built
 - 🎯 **[TailorCV](https://tailorcv-beta.vercel.app)**: AI interview-prep app that compares a job description with your resume and generates questions, skill gaps, and a roadmap (React, Node, MongoDB, Gemini, RAG)
