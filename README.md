@@ -1,5 +1,25 @@
-# 💫 About Me:
- <h1 align="center">Hi 👋, I'm Raj Aryan</h1><br> <h2 align="center">Full Stack Web Developer | MERN Stack</h2><br><br>🔭 I’m currently working on building full-stack web applications using the MERN stack and developing projects like version-control-system,  QueryGPT and a WebRTC video conferencing app.<br><br>👯 I’m looking to collaborate on open-source projects and innovative web applications related to developer tools or productivity platforms.<br><br>🤝 I’m looking for help with improving system design skills and building scalable backend architectures.<br><br>🌱 I’m currently learning advanced React patterns, backend development with Node.js, and Data Structures & Algorithms using Java.<br><br>💬 Ask me about React, JavaScript, full-stack development, and how to turn ideas into real web applications.<br><br>⚡ Fun fact: I enjoy building real products from scratch and exploring new technologies that make developers more productive.
+## 💫 About Me
+
+<h3 align="center">Hi 👋, I'm Raj Aryan</h3>
+<h4 align="center">Full Stack Developer | MERN Stack | AI Apps with RAG & LLMs</h4>
+
+MCA student at Kalinga University (Bhilai, India), looking for **full-stack developer internships and entry-level roles**.
+
+### 🔭 What I've built
+- 🎯 **[TailorCV](https://tailorcv-beta.vercel.app)**: AI interview-prep app that compares a job description with your resume and generates questions, skill gaps, and a roadmap (React, Node, MongoDB, Gemini, RAG)
+- 🧠 **QueryGPT**: multi-turn AI chatbot
+- 📹 **SeeYou**: WebRTC video conferencing app
+- 🐙 **GitHub Clone**: MERN version-control platform with a custom CLI, deployed on AWS
+- 📄 **Smart PDF RAG**: chat with your PDFs using Gemini embeddings and Qdrant
+
+### 🌱 Currently learning
+Advanced React patterns, scalable backend design, and Data Structures & Algorithms in Java.
+
+### 💬 Ask me about
+React, Node.js,Next.ja full-stack development, RAG, LLM and turning ideas into deployed products.
+
+### 📫 Reach me
+Portfolio: [my-dev-showcase-rho.vercel.app](https://my-dev-showcase-rho.vercel.app/)
 
 
 ## 🌐 Socials:
